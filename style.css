@@ -1,3 +1,20 @@
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last: center;
+}
+
+.background {
+    background-image: url(images/donation7.jpg);
+    background-position: center;
+    text-align: center;
+    padding: 100px 400px;
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(orange, tomato); 
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    
 }
